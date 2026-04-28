@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Onur 👋
 
-<!--
-**onuruen/onuruen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Engineering Sciences student at [Üniversite adı], 
+specializing in Electrical Engineering & Information Technology.
 
-Here are some ideas to get you started:
+🔭 Currently working on: Computer Vision & Signal Processing projects  
+🌱 Learning: Advanced image processing, embedded systems  
+💼 Open to: Werkstudent positions in Machine Vision / Signal Processing  
+📍 Based in Munich, Germany  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, MATLAB, JavaScript  
+- **Libraries/Tools:** OpenCV, Simulink, NumPy  
+- **Platforms:** Linux, Raspberry Pi  
+- **Languages:** English (C1), German (B1)  
+
+## 📫 Contact
+[[My LinkedIn](https://www.linkedin.com/in/onur-un/)] 
